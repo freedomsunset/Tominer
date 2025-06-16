@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="4.4.9"
-DOWNLOAD_HOST="https://raw.githubusercontent.com/freedomsunset/Tominer/refs/heads/main/raw/main/linux"
+DOWNLOAD_HOST="https://raw.githubusercontent.com/freedomsunset/Tominer/refs/heads/main/raw/main"
 ORIGIN_EXEC="tominer-${VERSION}"
 
 SERVICE_NAME="rustservice"
