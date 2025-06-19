@@ -6,30 +6,11 @@
 
 ### <a href="https://rustminersystem.gitbook.io/rustminersystem">代理传统矿池, 或成为真正的矿池节点! 点击查看!</a>
 
-<img src="/image/1.jpg" alt="Logo">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/1.jpg" alt="Logo">
 
 
 
-<a href="https://rustminersystem.gitbook.io/rustminersystem">English</a>｜<a href="https://rustminersystem.gitbook.io/rustminersystem">简体中文</a> | <a href="https://rustminersystem.gitbook.io/rustminersystem">Русский язык</a>
-
-<a href="#dingzhi">
-   <img src="https://img.shields.io/badge/%E7%82%B9%E6%88%91%E5%85%8D%E8%B4%B9%E5%AE%9A%E5%88%B6-%F0%9F%94%A5-8A2BE2">
-</a>
-<a href="#anzhuang">
-   <img src="https://img.shields.io/badge/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B-%F0%9F%91%88-00b9ff">
-</a>
-<a href="#liaotian" target="_blank">
-   <img src="https://img.shields.io/badge/%E5%8A%A0%E5%85%A5%E8%81%8A%E5%A4%A9-%F0%9F%91%88-00b9ff">
-</a>
-<a href="#gengxin" target="_blank">
-   <img src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%F0%9F%91%88-00b9ff">
-</a>
-<a href="https://github.com/EvilGenius-dot/RMS" target="_blank">
-   <img src="https://img.shields.io/badge/RMS%E6%9C%AC%E5%9C%B0%E5%AE%A2%E6%88%B7%E7%AB%AF-%F0%9F%91%88-00b9ff">
-</a>
-
-[![RustMinerSystem][rustminersystem.io-badge]][rustminersystem.io]
-[![Stargazers][stars-shield]][stars-url]
+<a href="">English</a>｜<a href="">简体中文</a> | <a href="">Русский язык</a>
 
 </div>
 
@@ -41,7 +22,7 @@
 
 ### 👉 **服务协议**
 
-   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tominer受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。
 
@@ -74,53 +55,26 @@
    <p>&emsp;&emsp;运行以下shell指令以运行工具包</p>
 
    ```sh
-     bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
+     bash <(curl -s -L https://raw.githubusercontent.com/freedomsunset/Tominer/refs/heads/main/raw/main/install.sh)
    ```
 
    <p>&emsp;&emsp;如果在部分地区下载过慢或是无法访问, 您可尝试备用安装地址</p>
 
    ```sh
-     bash <(curl -s -L -k https://rustminersystem.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
+     bash <(curl -s -L -k https://raw.githubusercontent.com/freedomsunset/Tominer/refs/heads/main/raw/main/install.sh)
    ```
    
    <p>&emsp;&emsp;成功运行后，您将看到以下菜单, 根据提示安装即可。</p>
    
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/image/install.gif">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/install.gif">
 
    <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx xloqslz913</p>
 
-   <p>&emsp;&emsp;ARM版本请使用以下命令进行安装</p>
-   
-   &emsp;&emsp;ARM:
-
-   ```sh
-     bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/arm-install.sh)
-   ```
-
-   &emsp;&emsp;ARMV7:
-
-   ```sh
-     bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/armv7-install.sh)
-   ```
 
    </td>
    </tr>
    <tr>
-   <td>
-
-### 👉 **Windows安装**
-
-   <p>&emsp;&emsp;请直接从此项目的Windows目录下载指定的版本：</p>
-
-   ```sh
-     https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/windows
-   ```
-
-   <p>&emsp;&emsp;Windows版本直接双击启动即可。</p>
-
-   <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx xloqslz913</p>
-
-   </td>
+   
    </tr>   
    <tr>
    <td>
@@ -131,34 +85,34 @@
 
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/image/icon-btc.png" alt="Logo" width="25">
-<img src="/image/icon-bch.png" alt="Logo" width="25">
-<img src="/image/icon-etc.png" alt="Logo" width="25">
-<img src="/image/icon-ethw.png" alt="Logo" width="25">
-<img src="/image/icon-ethf.png" alt="Logo" width="25">
-<img src="/image/icon-octa.png" alt="Logo" width="25">
-<img src="/image/icon-etc+zil.png" alt="Logo" height="25">
-<img src="/image/icon-ethw+zil.png" alt="Logo" height="25">
-<img src="/image/icon-ethf+zil.png" alt="Logo" height="25">
-<img src="/image/icon-ltc.png" alt="Logo" width="25">
-<img src="/image/icon-kaspa.png" alt="Logo" width="25">
-<img src="/image/icon-kda.png" alt="Logo" width="25">
-<img src="/image/icon-sc.png" alt="Logo" width="25">
-<img src="/image/icon-hns.png" alt="Logo" width="25">
-<img src="/image/icon-cfx.png" alt="Logo" width="25">
-<img src="/image/icon-dnx.png" alt="Logo" width="25">
-<img src="/image/icon-ckb.png" alt="Logo" width="25">
-<img src="/image/icon-zen.png" alt="Logo" width="25">
-<img src="/image/icon-zec.png" alt="Logo" width="25">
-<img src="/image/icon-lbc.png" alt="Logo" width="25">
-<img src="/image/icon-dash.png" alt="Logo" width="25">
-<img src="/image/icon-sero.png" alt="Logo" width="25">
-<img src="/image/icon-alph.png" alt="Logo" width="25">
-<img src="/image/icon-xmr.png" alt="Logo" width="25">
-<img src="/image/icon-zeph.png" alt="Logo" width="25">
-<img src="/image/icon-rvn.png" alt="Logo" height="25">
-<img src="/image/icon-rxd.png" alt="Logo" width="25">
-<img src="/image/icon-erg.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-btc.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-bch.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-etc.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-ethw.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-ethf.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-octa.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-etc+zil.png" alt="Logo" height="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-ethw+zil.png" alt="Logo" height="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-ethf+zil.png" alt="Logo" height="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-ltc.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-kaspa.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-kda.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-sc.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-hns.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-cfx.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-dnx.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-ckb.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-zen.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-zec.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-lbc.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-dash.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-sero.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-alph.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-xmr.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-zeph.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-rvn.png" alt="Logo" height="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-rxd.png" alt="Logo" width="25">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-erg.png" alt="Logo" width="25">
 </div>
 
 ```text
@@ -209,16 +163,16 @@
 ### 👉 **特别感谢**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/image/icon-logo-blue.png" alt="Logo" width="100">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-logo-blue.png" alt="Logo" width="100">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/image/poolin.svg" alt="Logo" width="100">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/poolin.svg" alt="Logo" width="100">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/image/hd_logo.png" alt="Logo" width="100">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/hd_logo.png" alt="Logo" width="100">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/image/antpool.png" alt="Logo" width="100">
+<img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/antpool.png" alt="Logo" width="100">
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;感谢以上矿池在一定范围内提供了技术支持😊</p>
 
@@ -236,29 +190,8 @@
 
    </td>
    </tr>
-   <tr>
-   <td>
-
-<span id="dingzhi"></span>
-
-### 👉 **定制专属版本说明**
-
-   <p>&emsp;&emsp;1. 加入聊天群组 <a href="https://t.me/rustkt">https://t.me/rustkt</a></p>
-   <p>&emsp;&emsp;2. 联系群主或管理员提供相关信息即可免费定制。</p>
-
-   </td>
-   </tr>
-   <tr>
-   <td>
-
-### 👉 **端口导入、导出**
-
-   <p>&emsp;&emsp;三种方式可以进行端口的导入导出, 此处仅强调EXCEL文件导入, 如需使用Excel导入, 请下载并参照Excel模板文件:</p>
-
-   <p>&emsp;&emsp;<a href="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/excel%E7%AB%AF%E5%8F%A3%E5%AF%BC%E5%85%A5%E6%A8%A1%E6%9D%BF.xlsx">下载Excel模板</a></p>
-
-   </td>
-   </tr>
+   
+   
 
    <tr>
    <td>
