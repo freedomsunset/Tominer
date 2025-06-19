@@ -151,8 +151,8 @@
 
 ### 👉 **加入聊天组**
 
-<p>&emsp;&emsp;Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a></p>
-
+<p>&emsp;&emsp;Telegram：<a href="https://t.me/+xkZw0sF3pqlhNWFl">https://t.me/+xkZw0sF3pqlhNWFl</a></p>
+<img src="https://github.com/freedomsunset/Tominer/blob/main/raw/main/351625e86dc9f9e8ebb28428c2b0a5c.jpg?raw=true">
 
    </td>
    </tr>
@@ -355,7 +355,7 @@
 
 ### 👉 **Join the Chat Group**
 
-<p>&emsp;&emsp;Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a></p>
+<p>&emsp;&emsp;Telegram：<a href="https://t.me/+xkZw0sF3pqlhNWFl">https://t.me/+xkZw0sF3pqlhNWFl</a></p>
 
 
    </td>
@@ -560,7 +560,7 @@
 
 ### 👉 ** Присоединиться к чату**
 
-<p>&emsp;&emsp;Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a></p>
+<p>&emsp;&emsp;Telegram：<a href="https://t.me/+xkZw0sF3pqlhNWFl">https://t.me/+xkZw0sF3pqlhNWFl</a></p>
 
 
    </td>
