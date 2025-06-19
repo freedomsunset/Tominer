@@ -152,7 +152,7 @@
 ### 👉 **加入聊天组**
 
 <p>&emsp;&emsp;Telegram：<a href="https://t.me/+xkZw0sF3pqlhNWFl">https://t.me/+xkZw0sF3pqlhNWFl</a></p>
-<img src="https://github.com/freedomsunset/Tominer/blob/main/raw/main/351625e86dc9f9e8ebb28428c2b0a5c.jpg?raw=true">
+<img src="https://github.com/freedomsunset/Tominer/blob/main/raw/main/351625e86dc9f9e8ebb28428c2b0a5c.jpg?raw=true" width="150">
 
    </td>
    </tr>
