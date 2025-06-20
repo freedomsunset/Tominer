@@ -184,7 +184,7 @@
 
 ### 👉 **更新日志**
 
-   <p>&emsp;&emsp;<a href="https://github.com/EvilGenius-dot/RustMinerSystem/releases">点击查看更新日志</a>
+   <p>&emsp;&emsp;<a href="http://www.docway.net/project/2J1C7VFrE2b/2J1C7WCKaps">点击查看更新日志</a>
 
 
    </td>
@@ -388,7 +388,7 @@
 
 ### 👉 **Update Log**
 
-   <p>&emsp;&emsp;<a href="https://github.com/EvilGenius-dot/RustMinerSystem/releases">Click to view the update log</a>
+   <p>&emsp;&emsp;<a href="http://www.docway.net/project/2J1C7VFrE2b/2J1C7WCKaps">Click to view the update log</a>
 
 
    </td>
@@ -593,7 +593,7 @@
 
 ### 👉 **Журнал обновлений**
 
-   <p>&emsp;&emsp;<a href="https://github.com/EvilGenius-dot/RustMinerSystem/releases">Нажмите, чтобы просмотреть журнал обновлений</a>
+   <p>&emsp;&emsp;<a href="http://www.docway.net/project/2J1C7VFrE2b/2J1C7WCKaps">Нажмите, чтобы просмотреть журнал обновлений</a>
 
 
    </td>
