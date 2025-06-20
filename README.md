@@ -4,13 +4,13 @@
 
 # <img src="./image/ktlogo.gif" alt="Logo" width="24">Tominer
 
-### <a href="http://www.docway.net/project/2HyZhX8tzsH/2HyZhYWcr9k">代理传统矿池, 或成为真正的矿池节点! 点击查看!</a>
+### <a href="http://www.docway.net/project/2HyZhX8tzsH/2HyZhYWcr9k" target="_blank">代理传统矿池, 或成为真正的矿池节点! 点击查看!</a>
 
 <img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/1.jpg" alt="Logo">
 
 
 
-<a href="#English">English</a>｜<a href="#chinese2">简体中文</a> | <a href="#Russia">Русский язык</a>
+<a href="#English2">English</a>｜<a href="#chinese2">简体中文</a> | <a href="#Russia2">Русский язык</a>
 
 </div>
 
@@ -214,7 +214,7 @@
 
 
 
-<a href="#English2">English</a>｜<a href="#chinese">简体中文</a> | <a href="#Russia">Русский язык</a>
+<a href="#English2">English</a>｜<a href="#chinese2">简体中文</a> | <a href="#Russia2">Русский язык</a>
 
 </div>
 
@@ -409,17 +409,17 @@
 </table>
 
 <br>
-<div align="center">
+<div align="center" id="Russia2">
 
 # <img src="./image/ktlogo.gif" alt="Logo" width="24">Tominer
 
-### <a href="https://rustminersystem.gitbook.io/rustminersystem">代理传统矿池, 或成为真正的矿池节点! 点击查看!</a>
+### <a href="http://www.docway.net/project/2J19m47Kzwm/2J19m48TOT2" target="_blank">Агент традиционного пула или стать настоящим узлом пула! Нажмите для просмотра!</a>
 
 <img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/1.jpg" alt="Logo">
 
 
 
-<a href="#English">English</a>｜<a href="#chinese">简体中文</a> | <a href="#Russia">Русский язык</a>
+<a href="#English2">English</a>｜<a href="#chinese2">简体中文</a> | <a href="#Russia2">Русский язык</a>
 
 </div>
 
