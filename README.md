@@ -204,17 +204,17 @@
 
 </table>
 <br>
-<div align="center">
+<div align="center" id="English2">
 
 # <img src="./image/ktlogo.gif" alt="Logo" width="24">Tominer
 
-### <a href="https://rustminersystem.gitbook.io/rustminersystem">代理传统矿池, 或成为真正的矿池节点! 点击查看!</a>
+### <a href="http://www.docway.net/project/2J16bFmTqRl/2J16bHmo9Q0" target="_blank">Proxy traditional mining pools, or become a true mining pool node! Click to view!</a>
 
 <img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/1.jpg" alt="Logo">
 
 
 
-<a href="#English">English</a>｜<a href="#chinese">简体中文</a> | <a href="#Russia">Русский язык</a>
+<a href="#English2">English</a>｜<a href="#chinese">简体中文</a> | <a href="#Russia">Русский язык</a>
 
 </div>
 
