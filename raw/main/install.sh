@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.5.6"
+VERSION="4.5.5"
 DOWNLOAD_HOST="https://raw.githubusercontent.com/freedomsunset/Tominer/refs/heads/main/raw/main"
 ORIGIN_EXEC="tominer-${VERSION}"
 
